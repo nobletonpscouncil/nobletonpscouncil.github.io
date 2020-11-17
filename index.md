@@ -31,12 +31,11 @@
   </div>
 
 
-        <h2 class="user__username">News and Upcoming Events</h2>
+        News and Upcoming Events
         <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
         <p class="user__excerpt">&nbsp;</p>
 <p class="user__excerpt">&nbsp;</p>
-</div>
-    </div>
+
     <div class="user">
          <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
@@ -49,7 +48,7 @@
         <p class="user__excerpt"><a href="https://docs.google.com/document/d/19Uw5pnukqnwKZeyyr-W56dRZ1aE-FN-tLZdXYiyauak/edit?usp=sharing">December 2017  Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1XHXzv0MsyrvAXhtuVVEjzRfHSiCb4TZw5npNxfLTeyg/edit?usp=sharing">November 2017 Constitution</a></p>
         <p class="user__excerpt"><a href="https://docs.google.com/document/d/1IUa57XSoz9SPtFZuZ1ZMSGW4iRyCCqtxwF7XUYS5gBg/edit?usp=sharing">November 2017 Minutes</a>      </p>
-      </div>
+      
     </div>
   </section>
 
