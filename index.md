@@ -50,20 +50,11 @@
         <p class="user__excerpt"><a href="https://docs.google.com/document/d/1IUa57XSoz9SPtFZuZ1ZMSGW4iRyCCqtxwF7XUYS5gBg/edit?usp=sharing">November 2017 Minutes</a>      </p>
       
     </div>
-  </section>
-
-  <section class="component__section">
-    <h2 class="component__sub-title">&nbsp;</h2>
-    
-    
-  </section>
 
 </main>
-
 <footer class="demo-footer">
   <div class="container">
     <small>Nobleton Public School Council</small>
   </div>
 </footer>
-
 </body></html>
