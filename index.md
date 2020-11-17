@@ -30,7 +30,7 @@
     </nav>
   </div>
 
-  <section class="component__section">
+
         <h2 class="user__username">News and Upcoming Events</h2>
         <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
         <p class="user__excerpt">&nbsp;</p>
