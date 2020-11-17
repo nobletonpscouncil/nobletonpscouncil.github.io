@@ -26,16 +26,12 @@
       </ul>
     </nav>
   </div>
-<main class="demo-content">
-  <div class="container">
 
-        News and Upcoming Events
-        <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
-        <p class="user__excerpt">&nbsp;</p>
-<p class="user__excerpt">&nbsp;</p>
+  
 
-    <div class="user">
+     <div class="user">
          <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
+         <p class="user__excerpt"><a href="https://docs.google.com/document/d/1PXoj8TQFraM3JbSbu-MHZoMdYDGqZrVDRVJw5sIBcDU/edit?usp=sharing">October 2020 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">September 2019 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">April 2019 Minutes</a></p>
