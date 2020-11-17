@@ -30,9 +30,11 @@
   </div>
 
   <section class="component__section">
+    <h2 class="component__sub-title">&nbsp;</h2>
     <div class="user">
     
       <div class="user__description">
+        <p class="user__excerpt">&nbsp;</p>
 </div>
     </div>
     <div class="user">
