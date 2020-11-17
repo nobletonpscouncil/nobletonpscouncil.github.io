@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<title>NobletonPS Council</title>
 </head>
 
 <body>
@@ -18,12 +18,6 @@
     <li><a href="https://docs.google.com/spreadsheets/d/1AnD7vF6arMfX7dOspB7r3l4DAxNlft8vS3d-osGb1kw/edit?usp=sharing" target="_new">Nobleton PS Council Finances</a></li>
     <li><a href="http://urstore.ca/schools/ca/ontario/nobleton/nobleton-public-school" target="_new">Order Nobleton Spirit Wear</a></li>
   </ul>
-</div>
-<h2> </h2>
-<div>
-  <div>
-    <p> </p>
-  </div>
 </div>
 <div>
   <div>
