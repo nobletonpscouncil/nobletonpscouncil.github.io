@@ -32,8 +32,7 @@
     <p><a href="https://docs.google.com/document/d/1RXpUBC8-5MFu2FH0grmJkeDNNiiLuBx1PsdB2W-4guc/edit?usp=sharing">February 2018 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/19Uw5pnukqnwKZeyyr-W56dRZ1aE-FN-tLZdXYiyauak/edit?usp=sharing">December 2017 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1XHXzv0MsyrvAXhtuVVEjzRfHSiCb4TZw5npNxfLTeyg/edit?usp=sharing">November 2017 Constitution</a></p>
-    <p><a href="https://docs.google.com/document/d/1IUa57XSoz9SPtFZuZ1ZMSGW4iRyCCqtxwF7XUYS5gBg/edit?usp=sharing">November 2017 Minutes</a></p>
-  </div>
+    </div>
 </div>
 </body>
 </html>
