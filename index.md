@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>Nobleton PS Council Information Page</title>
   <meta name="description" content="Information for Nobleton PS">
+
 </head>
 <body>
   
@@ -27,10 +29,21 @@
     </nav>
   </div>
 
-  
-
-     <div class="user">
-         <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
+  <section class="component__section">
+    <h2 class="component__sub-title">&nbsp;</h2>
+    <div class="user">
+      <div class="user__avatar"><img src="Nobleton%20PS%20Council%20Information%20Page_files/user_avatar.gif"></div>
+      <div class="user__description">
+        <h2 class="user__username">News and Upcoming Events</h2>
+        <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
+        <p class="user__excerpt">&nbsp;</p>
+<p class="user__excerpt">&nbsp;</p>
+</div>
+    </div>
+    <div class="user">
+      <div class="user__avatar"><img src="Nobleton%20PS%20Council%20Information%20Page_files/user_avatar.gif"></div>
+      <div class="user__description">
+        <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1PXoj8TQFraM3JbSbu-MHZoMdYDGqZrVDRVJw5sIBcDU/edit?usp=sharing">October 2020 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">September 2019 Minutes</a></p>
@@ -42,6 +55,26 @@
         <p class="user__excerpt"><a href="https://docs.google.com/document/d/19Uw5pnukqnwKZeyyr-W56dRZ1aE-FN-tLZdXYiyauak/edit?usp=sharing">December 2017  Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1XHXzv0MsyrvAXhtuVVEjzRfHSiCb4TZw5npNxfLTeyg/edit?usp=sharing">November 2017 Constitution</a></p>
         <p class="user__excerpt"><a href="https://docs.google.com/document/d/1IUa57XSoz9SPtFZuZ1ZMSGW4iRyCCqtxwF7XUYS5gBg/edit?usp=sharing">November 2017 Minutes</a>      </p>
-      
+      </div>
     </div>
+  </section>
 
+  <section class="component__section">
+    <h2 class="component__sub-title">&nbsp;</h2>
+    
+    <div class="banner">
+      <div class="banner__content">
+        <h2 class="banner__title">&nbsp;</h2>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="demo-footer">
+  <div class="container">
+    <small>Nobleton Public School Council</small>
+  </div>
+</footer>
+
+</body></html>
