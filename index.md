@@ -49,10 +49,3 @@
       
     </div>
 
-</main>
-<footer class="demo-footer">
-  <div class="container">
-    <small>Nobleton Public School Council</small>
-  </div>
-</footer>
-</body></html>
