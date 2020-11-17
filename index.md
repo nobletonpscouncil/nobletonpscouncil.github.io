@@ -4,9 +4,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>Nobleton PS Council Information Page</title>
   <meta name="description" content="Information for Nobleton PS">
-  <link rel="stylesheet" href="Nobleton%20PS%20Council%20Information%20Page_files/font-awesome.css">
-  <link rel="stylesheet" href="Nobleton%20PS%20Council%20Information%20Page_files/common.css">
-  <link rel="stylesheet" href="Nobleton%20PS%20Council%20Information%20Page_files/component.css">
 </head>
 <body>
   
@@ -29,7 +26,8 @@
       </ul>
     </nav>
   </div>
-
+<main class="demo-content">
+  <div class="container">
 
         News and Upcoming Events
         <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
