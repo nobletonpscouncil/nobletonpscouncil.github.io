@@ -31,10 +31,6 @@
   </div>
 
   <section class="component__section">
-    <h2 class="component__sub-title">&nbsp;</h2>
-    <div class="user">
-      <div class="user__avatar"><img src="Nobleton%20PS%20Council%20Information%20Page_files/user_avatar.gif"></div>
-      <div class="user__description">
         <h2 class="user__username">News and Upcoming Events</h2>
         <p class="user__excerpt"><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx">Calendar of school events</a></p>
         <p class="user__excerpt">&nbsp;</p>
@@ -42,9 +38,7 @@
 </div>
     </div>
     <div class="user">
-      <div class="user__avatar"><img src="Nobleton%20PS%20Council%20Information%20Page_files/user_avatar.gif"></div>
-      <div class="user__description">
-        <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
+         <h2 class="user__username">School and Council Meeting Minutes and Constitution</h2>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">September 2019 Minutes</a></p>
          <p class="user__excerpt"><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">April 2019 Minutes</a></p>
@@ -62,11 +56,7 @@
   <section class="component__section">
     <h2 class="component__sub-title">&nbsp;</h2>
     
-    <div class="banner">
-      <div class="banner__content">
-        <h2 class="banner__title">&nbsp;</h2>
-      </div>
-    </div>
+    
   </section>
 
 </main>
