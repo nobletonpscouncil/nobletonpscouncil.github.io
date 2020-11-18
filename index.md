@@ -12,7 +12,7 @@
     <li><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx" target="_new">Calendar of Events</a></li>
     <li><a href="https://twitter.com/nbltnpscouncil" target="_new">Twitter Posts and Information</a></li>
     <li><a href="https://www.instagram.com/nobletonpscouncil/" target="_new">Instagram Posts and Information</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1AnD7vF6arMfX7dOspB7r3l4DAxNlft8vS3d-osGb1kw/edit?usp=sharing" target="_new">Nobleton PS Council Finances</a></li>
+    <li><a href="https://i.imgur.com/ejx4xFK.jpg" target="_new">Nobleton PS Council Finances</a></li>
     <li><a href="http://urstore.ca/schools/ca/ontario/nobleton/nobleton-public-school" target="_new">Order Nobleton Spirit Wear</a></li>
   </ul>
 </div>
