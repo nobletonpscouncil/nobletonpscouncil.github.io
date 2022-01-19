@@ -8,6 +8,7 @@
 </div>
 <div>
   <ul>
+    <li class="demo-sub-nav__item"><a href="https://covidscreening.yrdsb.ca" target="_new" class="demo-sub-nav__link">Nobleton COVID screening link</a></li>
     <li><a href="https://www.facebook.com/nobletonpsschoolcouncil" target="_new">Facebook Posts and Updates</a></li>
     <li><a href="http://www.yrdsb.ca/schools/nobleton.ps/NewsEvents/Pages/School-Calendar.aspx" target="_new">Calendar of Events</a></li>
     <li><a href="https://twitter.com/nbltnpscouncil" target="_new">Twitter Posts and Information</a></li>
