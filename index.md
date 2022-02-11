@@ -20,6 +20,7 @@
 <div>
   <div>
     <h2>School and Council Meeting Minutes and Constitution</h2>
+    <p><a href="https://docs.google.com/document/d/1tHC1LKyIF1TtEPMxnJokaUZmAZM2EPs7sR_6Eih_2Rg/edit?usp=sharing">January 2022 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1FB5Bjm_akzgV8MHpqKKQ8w_lpRu_rCNzRwnBMAHgayE/edit?usp=sharing">November 2021 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1G_q_XODEYooBPWctZBjwv2bqRpL1WaAOCRlVfq5WIpU/edit?usp=sharing">October 2021 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1aSW_9NUJeLMqmM3jsq6lGi10c5ST0Sn8Tvy4szi-wFA/edit?usp=sharing">November 2020 Minutes</a></p>
