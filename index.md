@@ -27,13 +27,17 @@
     <p><a href="https://docs.google.com/document/d/1PXoj8TQFraM3JbSbu-MHZoMdYDGqZrVDRVJw5sIBcDU/edit?usp=sharing">October 2020 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">September 2019 Minutes</a></p>
-    <p><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">April 2019 Minutes</a></p>
-    <p><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">October 2018 Minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1Eom7bYyLD03-TOfph6qlAOKXsyIAB2GIFgdKFHQVuuk/edit?usp=sharing">June 2019 minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1Rlqb6ePSJRT8GatQYUyWBhbxY94dEI9e99tV_91nh9Y/edit?usp=sharing">May 2019 minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1N-QWxeLwcKv1HFcZM9-Jpigg6EjAGkOYG-IfxhYqBI4/edit?usp=sharing">April 2019 Minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1l_NKHKJnJ_D89_tV7qZMbmnHxubPJi-L0lU2270xVhU/edit?usp=sharing">Feb 2019 Minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1SQpOvLwFZKkTrnLeYgF5yctiV8eiiKWTJqPho7nTgYw/edit?usp=sharing">November 2018 Minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/1FLF4q__0GHRrpyszOh0n2-IhFNibjla5vdDlFnlbSTM/edit?usp=sharing">October 2018 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">May 2018 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">April 2018 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1RXpUBC8-5MFu2FH0grmJkeDNNiiLuBx1PsdB2W-4guc/edit?usp=sharing">February 2018 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/19Uw5pnukqnwKZeyyr-W56dRZ1aE-FN-tLZdXYiyauak/edit?usp=sharing">December 2017 Minutes</a></p>
-    <p><a href="https://docs.google.com/document/d/1XHXzv0MsyrvAXhtuVVEjzRfHSiCb4TZw5npNxfLTeyg/edit?usp=sharing">November 2017 Constitution</a></p>
+    <p><a href="https://docs.google.com/document/d/1tqXhMEhW1ST6cVa0PY-eSm2SySi8aPpKUptqgHbZ7Co/edit?usp=sharing">November 2017 Constitution</a></p>
     </div>
 </div>
 </body>
