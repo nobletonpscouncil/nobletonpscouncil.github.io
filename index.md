@@ -26,7 +26,7 @@
     <p><a href="https://docs.google.com/document/d/101gkt5q-gG8rAG5o2tvDJGgiTLHKB7eScjcXjYOeYlo/edit?usp=sharing">September 2021 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1aSW_9NUJeLMqmM3jsq6lGi10c5ST0Sn8Tvy4szi-wFA/edit?usp=sharing">November 2020 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1PXoj8TQFraM3JbSbu-MHZoMdYDGqZrVDRVJw5sIBcDU/edit?usp=sharing">October 2020 Minutes</a></p>
-    <p><a href="https://docs.google.com/document/d/1-yHmV3JOGkHT_bFXAUEF9qQ5H6KZFcVaZNNyrSMTRBY/edit?usp=sharing">October 2019 Minutes</a></p>
+    <p><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">October 2019 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/15WDI-pgd_o7NQcoTUJmIpDnI3HrGpVpDnWo5k7TQw_Q/edit?usp=sharing">September 2019 Minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1Eom7bYyLD03-TOfph6qlAOKXsyIAB2GIFgdKFHQVuuk/edit?usp=sharing">June 2019 minutes</a></p>
     <p><a href="https://docs.google.com/document/d/1Rlqb6ePSJRT8GatQYUyWBhbxY94dEI9e99tV_91nh9Y/edit?usp=sharing">May 2019 minutes</a></p>
